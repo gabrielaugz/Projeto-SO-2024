@@ -1,0 +1,8 @@
+program program_26
+begin
+block 4
+execute
+block 2
+execute
+execute
+end

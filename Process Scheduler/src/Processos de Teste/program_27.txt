@@ -1,0 +1,15 @@
+program program_27
+begin
+execute
+block 5
+execute
+block 2
+execute
+execute
+block 1
+execute
+execute
+execute
+execute
+execute
+end

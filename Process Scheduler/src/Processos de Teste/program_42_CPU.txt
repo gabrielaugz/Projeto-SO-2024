@@ -1,0 +1,22 @@
+program program_42_CPU
+begin
+execute
+execute
+execute
+execute
+execute
+block 1
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+block 1
+execute
+end

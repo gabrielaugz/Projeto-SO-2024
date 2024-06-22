@@ -1,0 +1,21 @@
+program program_31_IO
+begin
+execute
+block 4
+execute
+execute
+block 5
+block 4
+block 2
+block 4
+block 2
+block 4
+block 2
+block 5
+block 3
+block 4
+block 2
+block 5
+block 4
+block 3
+end

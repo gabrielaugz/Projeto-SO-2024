@@ -1,0 +1,17 @@
+program program_3
+begin
+execute
+block 2
+block 2
+execute
+execute
+block 3
+block 1
+block 2
+execute
+execute
+execute
+execute
+block 4
+block 5
+end

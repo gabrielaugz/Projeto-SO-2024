@@ -1,0 +1,23 @@
+program program_10_CPU
+begin
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+block 3
+execute
+execute
+block 1
+end

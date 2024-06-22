@@ -1,0 +1,9 @@
+program program_30_CPU
+begin
+execute
+execute
+execute
+block 2
+execute
+execute
+end

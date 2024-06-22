@@ -1,0 +1,15 @@
+program program_38_CPU
+begin
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+block 1
+execute
+end

@@ -1,0 +1,16 @@
+program program_15_CPU
+begin
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+end

@@ -1,0 +1,16 @@
+program program_36_CPU
+begin
+execute
+execute
+block 1
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+end

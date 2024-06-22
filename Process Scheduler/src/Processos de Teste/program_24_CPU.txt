@@ -1,0 +1,24 @@
+program program_24_CPU
+begin
+execute
+execute
+block 2
+execute
+execute
+execute
+block 1
+block 3
+execute
+execute
+block 1
+execute
+execute
+execute
+block 3
+execute
+block 1
+block 2
+execute
+execute
+execute
+end

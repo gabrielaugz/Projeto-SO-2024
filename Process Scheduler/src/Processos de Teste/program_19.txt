@@ -1,0 +1,9 @@
+program program_19
+begin
+block 3
+execute
+block 1
+execute
+execute
+block 5
+end

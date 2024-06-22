@@ -1,0 +1,11 @@
+program program_12
+begin
+execute
+block 2
+block 1
+execute
+execute
+block 1
+execute
+execute
+end

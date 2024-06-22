@@ -1,0 +1,19 @@
+program program_29_CPU
+begin
+block 1
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+block 1
+end

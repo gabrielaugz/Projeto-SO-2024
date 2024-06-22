@@ -1,0 +1,13 @@
+program program_41
+begin
+execute
+execute
+block 3
+execute
+execute
+execute
+execute
+execute
+execute
+execute
+end

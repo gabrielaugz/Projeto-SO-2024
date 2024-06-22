@@ -1,0 +1,14 @@
+program program_34
+begin
+execute
+execute
+execute
+execute
+execute
+block 3
+execute
+execute
+block 1
+block 3
+block 2
+end

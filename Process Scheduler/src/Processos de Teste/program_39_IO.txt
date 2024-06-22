@@ -1,0 +1,14 @@
+program program_39_IO
+begin
+block 4
+block 5
+block 2
+block 2
+block 5
+block 3
+block 4
+block 2
+execute
+block 3
+execute
+end

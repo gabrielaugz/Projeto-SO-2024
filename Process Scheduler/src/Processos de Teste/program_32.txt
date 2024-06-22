@@ -1,0 +1,21 @@
+program program_32
+begin
+execute
+execute
+block 2
+execute
+execute
+block 4
+execute
+block 4
+execute
+block 1
+block 1
+block 3
+block 3
+execute
+execute
+execute
+execute
+execute
+end

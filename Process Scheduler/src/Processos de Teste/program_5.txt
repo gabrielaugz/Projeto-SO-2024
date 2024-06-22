@@ -1,0 +1,20 @@
+program program_5
+begin
+execute
+execute
+block 3
+execute
+execute
+execute
+execute
+execute
+block 2
+execute
+execute
+execute
+block 2
+block 3
+block 1
+execute
+execute
+end

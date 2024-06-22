@@ -1,0 +1,20 @@
+program program_7_IO
+begin
+block 4
+execute
+block 2
+block 2
+block 2
+block 5
+block 5
+block 3
+block 4
+block 5
+execute
+block 3
+execute
+block 3
+block 2
+block 4
+block 2
+end
